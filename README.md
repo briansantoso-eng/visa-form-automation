@@ -29,9 +29,10 @@ Manually, this is pure clerical repetition — read subject, pick attachment, hi
 
 ## Architecture
 
-<p align="center">
-  <img src="images/zap-workflow.png" alt="Zapier workflow: Gmail trigger splits into WHV and Student paths, each with path conditions, a filter, and a Gmail send step" width="720">
-</p>
+<div align="center">
+  <img src="images/zap-workflow.png" alt="Zapier workflow: Gmail trigger splits into WHV and Student paths, each with path conditions, a filter, and a Gmail send step" width="840">
+  <p><sub><i>Live Zap structure — one Gmail trigger, a Paths split, and two fully independent branches.</i></sub></p>
+</div>
 
 **Eight steps, one trigger, two parallel branches:**
 
